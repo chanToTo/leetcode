@@ -8,7 +8,7 @@ import java.util.Set;
  * @description 无重复字符的最长子串
  * @date 2020/2/10 22:32
  */
-public class Title3 {
+public class Three {
     public static void main(String[] args) {
         String str = "abcdabcdf";
         getStr(str);

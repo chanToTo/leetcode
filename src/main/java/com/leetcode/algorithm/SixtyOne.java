@@ -7,7 +7,7 @@ import java.util.Stack;
  * @description 旋转链表
  * @date 2020/2/10 22:33
  */
-public class Title61 {
+public class SixtyOne {
     public static void main(String[] args) {
         int[] arr = new int[]{1,2,3};
         ListNode listNode = new ListNode(0);
